@@ -1,0 +1,2452 @@
+[
+  {
+    "bg_label": "B_lymphocyte",
+    "bto_label": "B-lymphocyte",
+    "bto_id": "BTO:0000776",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "B_lymphoma_cell_line",
+    "bto_label": "B-lymphoma cell line",
+    "bto_id": "BTO:0001518",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "T_lymphocyte",
+    "bto_label": "T-lymphocyte",
+    "bto_id": "BTO:0000782",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "acute_myeloid_leukemia_cell",
+    "bto_label": "acute myeloid leukemia cell",
+    "bto_id": "BTO:0001545",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "adenocarcinoma_cell",
+    "bto_label": "adenocarcinoma cell",
+    "bto_id": "BTO:0000604",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "adipose_tissue",
+    "bto_label": "adipose tissue",
+    "bto_id": "BTO:0001487",
+    "uberon_id": "UBERON:0001013",
+    "uberon_label": "adipose tissue"
+  },
+  {
+    "bg_label": "adrenal_cortex",
+    "bto_label": "adrenal cortex",
+    "bto_id": "BTO:0000045",
+    "uberon_id": "UBERON:0001235",
+    "uberon_label": "adrenal cortex"
+  },
+  {
+    "bg_label": "adrenal_gland",
+    "bto_label": "adrenal gland",
+    "bto_id": "BTO:0000047",
+    "uberon_id": "UBERON:0002369",
+    "uberon_label": "adrenal gland"
+  },
+  {
+    "bg_label": "adrenal_gland_cancer_cell",
+    "bto_label": "adrenal gland cancer cell",
+    "bto_id": "BTO:0000592",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "adrenocortical_carcinoma_cell",
+    "bto_label": "adrenocortical carcinoma cell",
+    "bto_id": "BTO:0002219",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "adult_stem_cell",
+    "bto_label": "adult stem cell",
+    "bto_id": "BTO:0002666",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "alimentary_canal",
+    "bto_label": "alimentary canal",
+    "bto_id": "BTO:0000058",
+    "uberon_id": "UBERON:0005409",
+    "uberon_label": "alimentary part of gastrointestinal system"
+  },
+  {
+    "bg_label": "amygdala",
+    "bto_label": "amygdala",
+    "bto_id": "BTO:0001042",
+    "uberon_id": "UBERON:0001876",
+    "uberon_label": "amygdala"
+  },
+  {
+    "bg_label": "animal",
+    "bto_label": "animal",
+    "bto_id": "BTO:0000042",
+    "uberon_id": "UBERON:0000468",
+    "uberon_label": "multicellular organism"
+  },
+  {
+    "bg_label": "aorta",
+    "bto_label": "aorta",
+    "bto_id": "BTO:0000135",
+    "uberon_id": "UBERON:0000947",
+    "uberon_label": "aorta"
+  },
+  {
+    "bg_label": "artery",
+    "bto_label": "artery",
+    "bto_id": "BTO:0000573",
+    "uberon_id": "UBERON:0001637",
+    "uberon_label": "artery"
+  },
+  {
+    "bg_label": "astroblast",
+    "bto_label": "astroblast",
+    "bto_id": "BTO:0000098",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "astrocyte",
+    "bto_label": "astrocyte",
+    "bto_id": "BTO:0000099",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "astrocytoma_cell",
+    "bto_label": "astrocytoma cell",
+    "bto_id": "BTO:0000100",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "astroglia",
+    "bto_label": "astroglia",
+    "bto_id": "BTO:0003852",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "astroglial_cell",
+    "bto_label": "astroglial cell",
+    "bto_id": "BTO:0002609",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "avian_pallium",
+    "bto_label": "avian pallium",
+    "bto_id": "BTO:0003399",
+    "uberon_id": "UBERON:0000203",
+    "uberon_label": "pallium"
+  },
+  {
+    "bg_label": "basal_ganglion",
+    "bto_label": "basal ganglion",
+    "bto_id": "BTO:0000235",
+    "uberon_id": "UBERON:0002420",
+    "uberon_label": "basal ganglion"
+  },
+  {
+    "bg_label": "basophil",
+    "bto_label": "basophil",
+    "bto_id": "BTO:0000129",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "bile_duct",
+    "bto_label": "bile duct",
+    "bto_id": "BTO:0000122",
+    "uberon_id": "UBERON:0002394",
+    "uberon_label": "bile duct"
+  },
+  {
+    "bg_label": "bile_duct_epithelium",
+    "bto_label": "bile duct epithelium",
+    "bto_id": "BTO:0000417",
+    "uberon_id": "UBERON:0004820",
+    "uberon_label": "bile duct epithelium"
+  },
+  {
+    "bg_label": "biliary_epithelium",
+    "bto_label": "biliary epithelium",
+    "bto_id": "BTO:0001513",
+    "uberon_id": "UBERON:0034932",
+    "uberon_label": "epithelium of biliary system"
+  },
+  {
+    "bg_label": "bladder",
+    "bto_label": "bladder",
+    "bto_id": "BTO:0000123",
+    "uberon_id": "UBERON:0018707",
+    "uberon_label": "bladder organ"
+  },
+  {
+    "bg_label": "blast_cell",
+    "bto_label": "blast cell",
+    "bto_id": "BTO:0000125",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "blastomere",
+    "bto_label": "blastomere",
+    "bto_id": "BTO:0001473",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "blastula",
+    "bto_label": "blastula",
+    "bto_id": "BTO:0000128",
+    "uberon_id": "UBERON:0000307",
+    "uberon_label": "blastula"
+  },
+  {
+    "bg_label": "blood",
+    "bto_label": "blood",
+    "bto_id": "BTO:0000089",
+    "uberon_id": "UBERON:0000178",
+    "uberon_label": "blood"
+  },
+  {
+    "bg_label": "blood_cancer_cell",
+    "bto_label": "blood cancer cell",
+    "bto_id": "BTO:0000580",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "blood_plasma",
+    "bto_label": "blood plasma",
+    "bto_id": "BTO:0000131",
+    "uberon_id": "UBERON:0001969",
+    "uberon_label": "blood plasma"
+  },
+  {
+    "bg_label": "blood_platelet",
+    "bto_label": "blood platelet",
+    "bto_id": "BTO:0000132",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "blood_vessel",
+    "bto_label": "blood vessel",
+    "bto_id": "BTO:0001102",
+    "uberon_id": "UBERON:0001981",
+    "uberon_label": "blood vessel"
+  },
+  {
+    "bg_label": "blood_vessel_endothelium",
+    "bto_label": "blood vessel endothelium",
+    "bto_id": "BTO:0000766",
+    "uberon_id": "UBERON:0004638",
+    "uberon_label": "blood vessel endothelium"
+  },
+  {
+    "bg_label": "bone",
+    "bto_label": "bone",
+    "bto_id": "BTO:0000140",
+    "uberon_id": "UBERON:0001474",
+    "uberon_label": "bone element"
+  },
+  {
+    "bg_label": "bone_cancer_cell",
+    "bto_label": "bone cancer cell",
+    "bto_id": "BTO:0000372",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "bone_marrow",
+    "bto_label": "bone marrow",
+    "bto_id": "BTO:0000141",
+    "uberon_id": "UBERON:0002371",
+    "uberon_label": "bone marrow"
+  },
+  {
+    "bg_label": "bone_marrow_cell",
+    "bto_label": "bone marrow cell",
+    "bto_id": "BTO:0004850",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "brain",
+    "bto_label": "brain",
+    "bto_id": "BTO:0000142",
+    "uberon_id": "UBERON:0000955",
+    "uberon_label": "brain"
+  },
+  {
+    "bg_label": "brain_stem",
+    "bto_label": "brain stem",
+    "bto_id": "BTO:0000146",
+    "uberon_id": "UBERON:0002298",
+    "uberon_label": "brainstem"
+  },
+  {
+    "bg_label": "brain_ventricle",
+    "bto_label": "brain ventricle",
+    "bto_id": "BTO:0001442",
+    "uberon_id": "UBERON:0004086",
+    "uberon_label": "brain ventricle"
+  },
+  {
+    "bg_label": "breast",
+    "bto_label": "breast",
+    "bto_id": "BTO:0000149",
+    "uberon_id": "UBERON:0000310",
+    "uberon_label": "breast"
+  },
+  {
+    "bg_label": "breast_cancer_cell",
+    "bto_label": "breast cancer cell",
+    "bto_id": "BTO:0000150",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "breast_epithelium",
+    "bto_label": "breast epithelium",
+    "bto_id": "BTO:0001428",
+    "uberon_id": "UBERON:0008367",
+    "uberon_label": "breast epithelium"
+  },
+  {
+    "bg_label": "bronchial_epithelial_cell",
+    "bto_label": "bronchial epithelial cell",
+    "bto_id": "BTO:0002922",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "bronchial_epithelium",
+    "bto_label": "bronchial epithelium",
+    "bto_id": "BTO:0001845",
+    "uberon_id": "UBERON:0002031",
+    "uberon_label": "epithelium of bronchus"
+  },
+  {
+    "bg_label": "bronchoalveolar_system",
+    "bto_label": "bronchoalveolar system",
+    "bto_id": "BTO:0000136",
+    "uberon_id": "UBERON:0006524",
+    "uberon_label": "alveolar system"
+  },
+  {
+    "bg_label": "bronchogenic_carcinoma_cell",
+    "bto_label": "bronchogenic carcinoma cell",
+    "bto_id": "BTO:0002061",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "bronchus",
+    "bto_label": "bronchus",
+    "bto_id": "BTO:0001340",
+    "uberon_id": "UBERON:0002185",
+    "uberon_label": "bronchus"
+  },
+  {
+    "bg_label": "capsular_epithelium",
+    "bto_label": "capsular epithelium",
+    "bto_id": "BTO:0002296",
+    "uberon_id": "UBERON:0005750",
+    "uberon_label": "glomerular parietal epithelium"
+  },
+  {
+    "bg_label": "carcinoid_cell",
+    "bto_label": "carcinoid cell",
+    "bto_id": "BTO:0000729",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "carcinoma_cell",
+    "bto_label": "carcinoma cell",
+    "bto_id": "BTO:0000176",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "cardiac_muscle",
+    "bto_label": "cardiac muscle",
+    "bto_id": "BTO:0000199",
+    "uberon_id": "UBERON:0001133",
+    "uberon_label": "cardiac muscle tissue"
+  },
+  {
+    "bg_label": "cardiovascular_system",
+    "bto_label": "cardiovascular system",
+    "bto_id": "BTO:0000088",
+    "uberon_id": "UBERON:0004535",
+    "uberon_label": "cardiovascular system"
+  },
+  {
+    "bg_label": "cartilage",
+    "bto_label": "cartilage",
+    "bto_id": "BTO:0000206",
+    "uberon_id": "UBERON:0002418",
+    "uberon_label": "cartilage tissue"
+  },
+  {
+    "bg_label": "caudate_nucleus",
+    "bto_label": "caudate nucleus",
+    "bto_id": "BTO:0000211",
+    "uberon_id": "UBERON:0001873",
+    "uberon_label": "caudate nucleus"
+  },
+  {
+    "bg_label": "caudate_putamen",
+    "bto_label": "caudate putamen",
+    "bto_id": "BTO:0000212",
+    "uberon_id": "UBERON:0005383",
+    "uberon_label": "caudate-putamen"
+  },
+  {
+    "bg_label": "cecum",
+    "bto_label": "cecum",
+    "bto_id": "BTO:0000166",
+    "uberon_id": "UBERON:0001153",
+    "uberon_label": "caecum"
+  },
+  {
+    "bg_label": "cell_culture",
+    "bto_label": "cell culture",
+    "bto_id": "BTO:0000214",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "central_nervous_system",
+    "bto_label": "central nervous system",
+    "bto_id": "BTO:0000227",
+    "uberon_id": "UBERON:0001017",
+    "uberon_label": "central nervous system"
+  },
+  {
+    "bg_label": "cerebellar_cortex",
+    "bto_label": "cerebellar cortex",
+    "bto_id": "BTO:0000043",
+    "uberon_id": "UBERON:0002129",
+    "uberon_label": "cerebellar cortex"
+  },
+  {
+    "bg_label": "cerebellum",
+    "bto_label": "cerebellum",
+    "bto_id": "BTO:0000232",
+    "uberon_id": "UBERON:0002037",
+    "uberon_label": "cerebellum"
+  },
+  {
+    "bg_label": "cerebral_cortex",
+    "bto_label": "cerebral cortex",
+    "bto_id": "BTO:0000233",
+    "uberon_id": "UBERON:0000956",
+    "uberon_label": "cerebral cortex"
+  },
+  {
+    "bg_label": "cerebral_hemisphere",
+    "bto_label": "cerebral hemisphere",
+    "bto_id": "BTO:0000231",
+    "uberon_id": "UBERON:0001869",
+    "uberon_label": "cerebral hemisphere"
+  },
+  {
+    "bg_label": "cerebral_lobe",
+    "bto_label": "cerebral lobe",
+    "bto_id": "BTO:0000445",
+    "uberon_id": "UBERON:0016526",
+    "uberon_label": "lobe of cerebral hemisphere"
+  },
+  {
+    "bg_label": "cervical_adenocarcinoma_cell",
+    "bto_label": "cervical adenocarcinoma cell",
+    "bto_id": "BTO:0003165",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "cervical_carcinoma_cell",
+    "bto_label": "cervical carcinoma cell",
+    "bto_id": "BTO:0000180",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "cervical_squamous_cell_carcinoma_cell",
+    "bto_label": "cervical squamous cell carcinoma cell",
+    "bto_id": "BTO:0004223",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "cholangiocarcinoma_cell",
+    "bto_label": "cholangiocarcinoma cell",
+    "bto_id": "BTO:0001326",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "chondrocyte",
+    "bto_label": "chondrocyte",
+    "bto_id": "BTO:0000249",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "choroid",
+    "bto_label": "choroid",
+    "bto_id": "BTO:0001829",
+    "uberon_id": "UBERON:0001776",
+    "uberon_label": "optic choroid"
+  },
+  {
+    "bg_label": "chromophobe_renal_cell_carcinoma_cell",
+    "bto_label": "chromophobe renal cell carcinoma cell",
+    "bto_id": "BTO:0003458",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "cochlea",
+    "bto_label": "cochlea",
+    "bto_id": "BTO:0000267",
+    "uberon_id": "UBERON:0001844",
+    "uberon_label": "cochlea"
+  },
+  {
+    "bg_label": "coelom",
+    "bto_label": "coelom",
+    "bto_id": "BTO:0001707",
+    "uberon_id": "UBERON:0002323",
+    "uberon_label": "coelemic cavity lumen"
+  },
+  {
+    "bg_label": "colon",
+    "bto_label": "colon",
+    "bto_id": "BTO:0000269",
+    "uberon_id": "UBERON:0001155",
+    "uberon_label": "colon"
+  },
+  {
+    "bg_label": "colonic_cancer_cell",
+    "bto_label": "colonic cancer cell",
+    "bto_id": "BTO:0000586",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "colorectal_adenocarcinoma_cell",
+    "bto_label": "colorectal adenocarcinoma cell",
+    "bto_id": "BTO:0000035",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "colorectum",
+    "bto_label": "colorectum",
+    "bto_id": "BTO:0001613",
+    "uberon_id": "UBERON:0012652",
+    "uberon_label": "colorectum"
+  },
+  {
+    "bg_label": "connecting_stalk",
+    "bto_label": "connecting stalk",
+    "bto_id": "BTO:0004705",
+    "uberon_id": "UBERON:0007806",
+    "uberon_label": "connecting stalk"
+  },
+  {
+    "bg_label": "connective_tissue",
+    "bto_label": "connective tissue",
+    "bto_id": "BTO:0000421",
+    "uberon_id": "UBERON:0002384",
+    "uberon_label": "connective tissue"
+  },
+  {
+    "bg_label": "cornea",
+    "bto_label": "cornea",
+    "bto_id": "BTO:0000286",
+    "uberon_id": "UBERON:0000964",
+    "uberon_label": "cornea"
+  },
+  {
+    "bg_label": "corpus_callosum",
+    "bto_label": "corpus callosum",
+    "bto_id": "BTO:0000615",
+    "uberon_id": "UBERON:0002336",
+    "uberon_label": "corpus callosum"
+  },
+  {
+    "bg_label": "corpus_luteum",
+    "bto_label": "corpus luteum",
+    "bto_id": "BTO:0000292",
+    "uberon_id": "UBERON:0002512",
+    "uberon_label": "corpus luteum"
+  },
+  {
+    "bg_label": "corpus_striatum",
+    "bto_label": "corpus striatum",
+    "bto_id": "BTO:0001311",
+    "uberon_id": "UBERON:0000369",
+    "uberon_label": "corpus striatum"
+  },
+  {
+    "bg_label": "culture_condition",
+    "bto_label": "culture condition",
+    "bto_id": "BTO:0000216",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "culture_condition_CD8__cell",
+    "bto_label": null,
+    "bto_id": null,
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "culture_condition_antigen_presenting_cell",
+    "bto_label": null,
+    "bto_id": null,
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "dendritic_cell",
+    "bto_label": "dendritic cell",
+    "bto_id": "BTO:0002042",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "dentate_gyrus",
+    "bto_label": "dentate gyrus",
+    "bto_id": "BTO:0002496",
+    "uberon_id": "UBERON:0001885",
+    "uberon_label": "dentate gyrus of hippocampal formation"
+  },
+  {
+    "bg_label": "diencephalon",
+    "bto_label": "diencephalon",
+    "bto_id": "BTO:0000342",
+    "uberon_id": "UBERON:0001894",
+    "uberon_label": "diencephalon"
+  },
+  {
+    "bg_label": "diffuse_large_B_cell_lymphoma_cell",
+    "bto_label": null,
+    "bto_id": null,
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "digestive_gland",
+    "bto_label": "digestive gland",
+    "bto_id": "BTO:0000345",
+    "uberon_id": "UBERON:0006925",
+    "uberon_label": "digestive system gland"
+  },
+  {
+    "bg_label": "duodenum",
+    "bto_label": "duodenum",
+    "bto_id": "BTO:0000365",
+    "uberon_id": "UBERON:0002114",
+    "uberon_label": "duodenum"
+  },
+  {
+    "bg_label": "ear",
+    "bto_label": "ear",
+    "bto_id": "BTO:0000368",
+    "uberon_id": "UBERON:0001690",
+    "uberon_label": "ear"
+  },
+  {
+    "bg_label": "ectoderm",
+    "bto_label": "ectoderm",
+    "bto_id": "BTO:0000315",
+    "uberon_id": "UBERON:0000924",
+    "uberon_label": "ectoderm"
+  },
+  {
+    "bg_label": "embryo",
+    "bto_label": "embryo",
+    "bto_id": "BTO:0000379",
+    "uberon_id": "UBERON:0000922",
+    "uberon_label": "embryo"
+  },
+  {
+    "bg_label": "embryonic_structure",
+    "bto_label": "embryonic structure",
+    "bto_id": "BTO:0000174",
+    "uberon_id": "UBERON:0002050",
+    "uberon_label": "embryonic structure"
+  },
+  {
+    "bg_label": "endocrine_gland",
+    "bto_label": "endocrine gland",
+    "bto_id": "BTO:0001488",
+    "uberon_id": "UBERON:0002368",
+    "uberon_label": "endocrine gland"
+  },
+  {
+    "bg_label": "endocrine_pancreas",
+    "bto_label": "endocrine pancreas",
+    "bto_id": "BTO:0000650",
+    "uberon_id": "UBERON:0000016",
+    "uberon_label": "endocrine pancreas"
+  },
+  {
+    "bg_label": "endometrioid_carcinoma_cell",
+    "bto_label": "endometrioid carcinoma cell",
+    "bto_id": "BTO:0000194",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "endothelial_cell",
+    "bto_label": "endothelial cell",
+    "bto_id": "BTO:0001176",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "endothelium",
+    "bto_label": "endothelium",
+    "bto_id": "BTO:0000393",
+    "uberon_id": "UBERON:0001986",
+    "uberon_label": "endothelium"
+  },
+  {
+    "bg_label": "eosinophil",
+    "bto_label": "eosinophil",
+    "bto_id": "BTO:0000399",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "epidermal_cell",
+    "bto_label": "epidermal cell",
+    "bto_id": "BTO:0001470",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "epidermis",
+    "bto_label": "epidermis",
+    "bto_id": "BTO:0000404",
+    "uberon_id": "UBERON:0001003",
+    "uberon_label": "skin epidermis"
+  },
+  {
+    "bg_label": "epithelial_cell",
+    "bto_label": "epithelial cell",
+    "bto_id": "BTO:0000414",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "epithelioma_cell",
+    "bto_label": "epithelioma cell",
+    "bto_id": "BTO:0000415",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "epithelium",
+    "bto_label": "epithelium",
+    "bto_id": "BTO:0000416",
+    "uberon_id": "UBERON:0000483",
+    "uberon_label": "epithelium"
+  },
+  {
+    "bg_label": "esophageal_cancer_cell",
+    "bto_label": "esophageal cancer cell",
+    "bto_id": "BTO:0001577",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "esophagus",
+    "bto_label": "esophagus",
+    "bto_id": "BTO:0000959",
+    "uberon_id": "UBERON:0001043",
+    "uberon_label": "esophagus"
+  },
+  {
+    "bg_label": "excretory_gland",
+    "bto_label": "excretory gland",
+    "bto_id": "BTO:0000431",
+    "uberon_id": "UBERON:0009962",
+    "uberon_label": "excretory gland"
+  },
+  {
+    "bg_label": "exocrine_gland",
+    "bto_label": "exocrine gland",
+    "bto_id": "BTO:0000765",
+    "uberon_id": "UBERON:0002365",
+    "uberon_label": "exocrine gland"
+  },
+  {
+    "bg_label": "exocrine_pancreas",
+    "bto_label": "exocrine pancreas",
+    "bto_id": "BTO:0000434",
+    "uberon_id": "UBERON:0000017",
+    "uberon_label": "exocrine pancreas"
+  },
+  {
+    "bg_label": "eye",
+    "bto_label": "eye",
+    "bto_id": "BTO:0000439",
+    "uberon_id": "UBERON:0000970",
+    "uberon_label": "eye"
+  },
+  {
+    "bg_label": "female_reproductive_gland",
+    "bto_label": "female reproductive gland",
+    "bto_id": "BTO:0000254",
+    "uberon_id": "UBERON:0005398",
+    "uberon_label": "female reproductive gland"
+  },
+  {
+    "bg_label": "female_reproductive_system",
+    "bto_label": "female reproductive system",
+    "bto_id": "BTO:0000083",
+    "uberon_id": "UBERON:0000474",
+    "uberon_label": "female reproductive system"
+  },
+  {
+    "bg_label": "fetus",
+    "bto_label": "fetus",
+    "bto_id": "BTO:0000449",
+    "uberon_id": "UBERON:0000323",
+    "uberon_label": "late embryo"
+  },
+  {
+    "bg_label": "fibroblast",
+    "bto_label": "fibroblast",
+    "bto_id": "BTO:0000452",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "forebrain",
+    "bto_label": "forebrain",
+    "bto_id": "BTO:0000478",
+    "uberon_id": "UBERON:0001890",
+    "uberon_label": "forebrain"
+  },
+  {
+    "bg_label": "frontal_lobe",
+    "bto_label": "frontal lobe",
+    "bto_id": "BTO:0000484",
+    "uberon_id": "UBERON:0001870",
+    "uberon_label": "frontal cortex"
+  },
+  {
+    "bg_label": "gametocyte",
+    "bto_label": "gametocyte",
+    "bto_id": "BTO:0000996",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "ganglion",
+    "bto_label": "ganglion",
+    "bto_id": "BTO:0000497",
+    "uberon_id": "UBERON:0000045",
+    "uberon_label": "ganglion"
+  },
+  {
+    "bg_label": "gastric_adenocarcinoma_cell",
+    "bto_label": "gastric adenocarcinoma cell",
+    "bto_id": "BTO:0000036",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "gastric_cancer_cell",
+    "bto_label": "gastric cancer cell",
+    "bto_id": "BTO:0000498",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "gastrointestinal_cancer_cell",
+    "bto_label": "gastrointestinal cancer cell",
+    "bto_id": "BTO:0001533",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "gastrointestinal_tract",
+    "bto_label": "gastrointestinal tract",
+    "bto_id": "BTO:0000511",
+    "uberon_id": "UBERON:0001555",
+    "uberon_label": "digestive tract"
+  },
+  {
+    "bg_label": "germ_cell",
+    "bto_label": "germ cell",
+    "bto_id": "BTO:0000535",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "germ_layer",
+    "bto_label": "germ layer",
+    "bto_id": "BTO:0000556",
+    "uberon_id": "UBERON:0000923",
+    "uberon_label": "germ layer"
+  },
+  {
+    "bg_label": "gland",
+    "bto_label": "gland",
+    "bto_id": "BTO:0000522",
+    "uberon_id": "UBERON:0002530",
+    "uberon_label": "gland"
+  },
+  {
+    "bg_label": "glia",
+    "bto_label": "glia",
+    "bto_id": "BTO:0000524",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "glial_cell",
+    "bto_label": "glial cell",
+    "bto_id": "BTO:0002606",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "glioblastoma_cell",
+    "bto_label": "glioblastoma cell",
+    "bto_id": "BTO:0000527",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "glioma_cell",
+    "bto_label": "glioma cell",
+    "bto_id": "BTO:0000526",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "glomerular_epithelium",
+    "bto_label": "glomerular epithelium",
+    "bto_id": "BTO:0001515",
+    "uberon_id": "UBERON:0004188",
+    "uberon_label": "glomerular epithelium"
+  },
+  {
+    "bg_label": "gonad",
+    "bto_label": "gonad",
+    "bto_id": "BTO:0000534",
+    "uberon_id": "UBERON:0000991",
+    "uberon_label": "gonad"
+  },
+  {
+    "bg_label": "granulocyte",
+    "bto_label": "granulocyte",
+    "bto_id": "BTO:0000539",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "hair_follicle",
+    "bto_label": "hair follicle",
+    "bto_id": "BTO:0000554",
+    "uberon_id": "UBERON:0002073",
+    "uberon_label": "hair follicle"
+  },
+  {
+    "bg_label": "head",
+    "bto_label": "head",
+    "bto_id": "BTO:0000282",
+    "uberon_id": "UBERON:0000033",
+    "uberon_label": "head"
+  },
+  {
+    "bg_label": "head_and_neck_cancer_cell",
+    "bto_label": null,
+    "bto_id": null,
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "heart",
+    "bto_label": "heart",
+    "bto_id": "BTO:0000562",
+    "uberon_id": "UBERON:0000948",
+    "uberon_label": "heart"
+  },
+  {
+    "bg_label": "hematopoietic_cell",
+    "bto_label": "hematopoietic cell",
+    "bto_id": "BTO:0000574",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "hematopoietic_stem_cell",
+    "bto_label": "hematopoietic stem cell",
+    "bto_id": "BTO:0000725",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "hematopoietic_system",
+    "bto_label": "hematopoietic system",
+    "bto_id": "BTO:0000570",
+    "uberon_id": "UBERON:0002390",
+    "uberon_label": "hematopoietic system"
+  },
+  {
+    "bg_label": "hepatocyte",
+    "bto_label": "hepatocyte",
+    "bto_id": "BTO:0000575",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "hindbrain",
+    "bto_label": "hindbrain",
+    "bto_id": "BTO:0000672",
+    "uberon_id": "UBERON:0002028",
+    "uberon_label": "hindbrain"
+  },
+  {
+    "bg_label": "hippocampus",
+    "bto_label": "hippocampus",
+    "bto_id": "BTO:0000601",
+    "uberon_id": "UBERON:0002421",
+    "uberon_label": "hippocampal formation"
+  },
+  {
+    "bg_label": "hypophysis",
+    "bto_label": "hypophysis",
+    "bto_id": "BTO:0001073",
+    "uberon_id": "UBERON:0000007",
+    "uberon_label": "pituitary gland"
+  },
+  {
+    "bg_label": "hypothalamus",
+    "bto_label": "hypothalamus",
+    "bto_id": "BTO:0000614",
+    "uberon_id": "UBERON:0001898",
+    "uberon_label": "hypothalamus"
+  },
+  {
+    "bg_label": "ileocecum",
+    "bto_label": "ileocecum",
+    "bto_id": "BTO:0002273",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "ileum",
+    "bto_label": "ileum",
+    "bto_id": "BTO:0000620",
+    "uberon_id": "UBERON:0002116",
+    "uberon_label": "ileum"
+  },
+  {
+    "bg_label": "immune_system",
+    "bto_label": "immune system",
+    "bto_id": "BTO:0005810",
+    "uberon_id": "UBERON:0002405",
+    "uberon_label": "immune system"
+  },
+  {
+    "bg_label": "inner_ear",
+    "bto_label": "inner ear",
+    "bto_id": "BTO:0000630",
+    "uberon_id": "UBERON:0001846",
+    "uberon_label": "internal ear"
+  },
+  {
+    "bg_label": "integument",
+    "bto_label": "integument",
+    "bto_id": "BTO:0000634",
+    "uberon_id": "UBERON:0002199",
+    "uberon_label": "integument"
+  },
+  {
+    "bg_label": "internal_female_genital_organ",
+    "bto_label": "internal female genital organ",
+    "bto_id": "BTO:0003099",
+    "uberon_id": "UBERON:0003975",
+    "uberon_label": "internal female genitalia"
+  },
+  {
+    "bg_label": "internal_male_genital_organ",
+    "bto_label": "internal male genital organ",
+    "bto_id": "BTO:0003096",
+    "uberon_id": "UBERON:0004054",
+    "uberon_label": "internal male genitalia"
+  },
+  {
+    "bg_label": "intestinal_mucosa",
+    "bto_label": "intestinal mucosa",
+    "bto_id": "BTO:0000642",
+    "uberon_id": "UBERON:0001242",
+    "uberon_label": "intestinal mucosa"
+  },
+  {
+    "bg_label": "intestine",
+    "bto_label": "intestine",
+    "bto_id": "BTO:0000648",
+    "uberon_id": "UBERON:0000160",
+    "uberon_label": "intestine"
+  },
+  {
+    "bg_label": "jejunum",
+    "bto_label": "jejunum",
+    "bto_id": "BTO:0000657",
+    "uberon_id": "UBERON:0002115",
+    "uberon_label": "jejunum"
+  },
+  {
+    "bg_label": "keratinocyte",
+    "bto_label": "keratinocyte",
+    "bto_id": "BTO:0000667",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "kidney",
+    "bto_label": "kidney",
+    "bto_id": "BTO:0000671",
+    "uberon_id": "UBERON:0000082",
+    "uberon_label": "adult mammalian kidney"
+  },
+  {
+    "bg_label": "kidney_cancer_cell",
+    "bto_label": "kidney cancer cell",
+    "bto_id": "BTO:0000680",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "large_granular_lymphocyte",
+    "bto_label": "large granular lymphocyte",
+    "bto_id": "BTO:0004717",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "large_intestine",
+    "bto_label": "large intestine",
+    "bto_id": "BTO:0000706",
+    "uberon_id": "UBERON:0000059",
+    "uberon_label": "large intestine"
+  },
+  {
+    "bg_label": "lateral_ventricle",
+    "bto_label": "lateral ventricle",
+    "bto_id": "BTO:0000879",
+    "uberon_id": "UBERON:0002285",
+    "uberon_label": "telencephalic ventricle"
+  },
+  {
+    "bg_label": "lens",
+    "bto_label": "lens",
+    "bto_id": "BTO:0000723",
+    "uberon_id": "UBERON:0000965",
+    "uberon_label": "lens of camera-type eye"
+  },
+  {
+    "bg_label": "leukemia_cell",
+    "bto_label": "leukemia cell",
+    "bto_id": "BTO:0001271",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "leukocyte",
+    "bto_label": "leukocyte",
+    "bto_id": "BTO:0000751",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "limbic_system",
+    "bto_label": "limbic system",
+    "bto_id": "BTO:0000928",
+    "uberon_id": "UBERON:0000349",
+    "uberon_label": "limbic system"
+  },
+  {
+    "bg_label": "liver",
+    "bto_label": "liver",
+    "bto_id": "BTO:0000759",
+    "uberon_id": "UBERON:0002107",
+    "uberon_label": "liver"
+  },
+  {
+    "bg_label": "liver_cancer_cell",
+    "bto_label": "liver cancer cell",
+    "bto_id": "BTO:0000594",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "locus_ceruleus",
+    "bto_label": "locus ceruleus",
+    "bto_id": "BTO:0001408",
+    "uberon_id": "UBERON:0002148",
+    "uberon_label": "locus ceruleus"
+  },
+  {
+    "bg_label": "lung",
+    "bto_label": "lung",
+    "bto_id": "BTO:0000763",
+    "uberon_id": "UBERON:0002048",
+    "uberon_label": "lung"
+  },
+  {
+    "bg_label": "lung_adenocarcinoma_cell",
+    "bto_label": "lung adenocarcinoma cell",
+    "bto_id": "BTO:0002057",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "lung_cancer_cell",
+    "bto_label": "lung cancer cell",
+    "bto_id": "BTO:0000551",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "lung_squamous_cell_carcinoma_cell",
+    "bto_label": "lung squamous cell carcinoma cell",
+    "bto_id": "BTO:0003613",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "lymph_node",
+    "bto_label": "lymph node",
+    "bto_id": "BTO:0000784",
+    "uberon_id": "UBERON:0000029",
+    "uberon_label": "lymph node"
+  },
+  {
+    "bg_label": "lymphocyte",
+    "bto_label": "lymphocyte",
+    "bto_id": "BTO:0000775",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "lymphoid_cell",
+    "bto_label": "lymphoid cell",
+    "bto_id": "BTO:0001096",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "lymphoid_cell_line",
+    "bto_label": "lymphoid cell line",
+    "bto_id": "BTO:0001586",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "lymphoid_tissue",
+    "bto_label": "lymphoid tissue",
+    "bto_id": "BTO:0000753",
+    "uberon_id": "UBERON:0001744",
+    "uberon_label": "lymphoid tissue"
+  },
+  {
+    "bg_label": "lymphoma_cell",
+    "bto_label": "lymphoma cell",
+    "bto_id": "BTO:0000785",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "lymphoma_cell_line",
+    "bto_label": "lymphoma cell line",
+    "bto_id": "BTO:0000104",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "macroglia",
+    "bto_label": "macroglia",
+    "bto_id": "BTO:0000771",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "macrophage",
+    "bto_label": "macrophage",
+    "bto_id": "BTO:0000801",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "male_reproductive_gland",
+    "bto_label": "male reproductive gland",
+    "bto_id": "BTO:0000080",
+    "uberon_id": "UBERON:0005399",
+    "uberon_label": "male reproductive gland"
+  },
+  {
+    "bg_label": "male_reproductive_system",
+    "bto_label": "male reproductive system",
+    "bto_id": "BTO:0000082",
+    "uberon_id": "UBERON:0000079",
+    "uberon_label": "male reproductive system"
+  },
+  {
+    "bg_label": "mammary_epithelium",
+    "bto_label": "mammary epithelium",
+    "bto_id": "BTO:0001430",
+    "uberon_id": "UBERON:0003244",
+    "uberon_label": "epithelium of mammary gland"
+  },
+  {
+    "bg_label": "mammary_gland",
+    "bto_label": "mammary gland",
+    "bto_id": "BTO:0000817",
+    "uberon_id": "UBERON:0001911",
+    "uberon_label": "mammary gland"
+  },
+  {
+    "bg_label": "marrow_cell",
+    "bto_label": "marrow cell",
+    "bto_id": "BTO:0001441",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "mast_cell",
+    "bto_label": "mast cell",
+    "bto_id": "BTO:0000830",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "mature_ovarian_follicle",
+    "bto_label": "mature ovarian follicle",
+    "bto_id": "BTO:0000389",
+    "uberon_id": "UBERON:0003982",
+    "uberon_label": "mature ovarian follicle"
+  },
+  {
+    "bg_label": "medulla_oblongata",
+    "bto_label": "medulla oblongata",
+    "bto_id": "BTO:0000041",
+    "uberon_id": "UBERON:0001896",
+    "uberon_label": "medulla oblongata"
+  },
+  {
+    "bg_label": "megakaryoblast",
+    "bto_label": "megakaryoblast",
+    "bto_id": "BTO:0001164",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "megakaryocyte",
+    "bto_label": "megakaryocyte",
+    "bto_id": "BTO:0000843",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "melanocyte",
+    "bto_label": "melanocyte",
+    "bto_id": "BTO:0000847",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "melanoma_cell",
+    "bto_label": "melanoma cell",
+    "bto_id": "BTO:0000848",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "mesoderm",
+    "bto_label": "mesoderm",
+    "bto_id": "BTO:0000839",
+    "uberon_id": "UBERON:0000926",
+    "uberon_label": "mesoderm"
+  },
+  {
+    "bg_label": "mesothelioma_cell",
+    "bto_label": "mesothelioma cell",
+    "bto_id": "BTO:0002423",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "mesothelium",
+    "bto_label": "mesothelium",
+    "bto_id": "BTO:0002422",
+    "uberon_id": "UBERON:0001136",
+    "uberon_label": "mesothelium"
+  },
+  {
+    "bg_label": "metencephalon",
+    "bto_label": "metencephalon",
+    "bto_id": "BTO:0000673",
+    "uberon_id": "UBERON:0001895",
+    "uberon_label": "metencephalon"
+  },
+  {
+    "bg_label": "midbrain",
+    "bto_label": "midbrain",
+    "bto_id": "BTO:0000138",
+    "uberon_id": "UBERON:0001891",
+    "uberon_label": "midbrain"
+  },
+  {
+    "bg_label": "monocyte",
+    "bto_label": "monocyte",
+    "bto_id": "BTO:0000876",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "mononuclear_cell",
+    "bto_label": "mononuclear cell",
+    "bto_id": "BTO:0000878",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "mononuclear_phagocyte",
+    "bto_label": "mononuclear phagocyte",
+    "bto_id": "BTO:0001433",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "morula",
+    "bto_label": "morula",
+    "bto_id": "BTO:0001508",
+    "uberon_id": "UBERON:0000085",
+    "uberon_label": "morula"
+  },
+  {
+    "bg_label": "mouth",
+    "bto_label": "mouth",
+    "bto_id": "BTO:0001090",
+    "uberon_id": "UBERON:0000165",
+    "uberon_label": "mouth"
+  },
+  {
+    "bg_label": "mucosa",
+    "bto_label": "mucosa",
+    "bto_id": "BTO:0000886",
+    "uberon_id": "UBERON:0000344",
+    "uberon_label": "mucosa"
+  },
+  {
+    "bg_label": "muscle",
+    "bto_label": "muscle",
+    "bto_id": "BTO:0000887",
+    "uberon_id": "UBERON:0001015",
+    "uberon_label": "musculature"
+  },
+  {
+    "bg_label": "muscular_system",
+    "bto_label": "muscular system",
+    "bto_id": "BTO:0001485",
+    "uberon_id": "UBERON:0000383",
+    "uberon_label": "musculature of body"
+  },
+  {
+    "bg_label": "myelencephalon",
+    "bto_label": "myelencephalon",
+    "bto_id": "BTO:0000758",
+    "uberon_id": "UBERON:0005290",
+    "uberon_label": "myelencephalon"
+  },
+  {
+    "bg_label": "myeloid_leukemia_cell",
+    "bto_label": "myeloid leukemia cell",
+    "bto_id": "BTO:0001056",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "myeloid_progenitor_cell",
+    "bto_label": "myeloid progenitor cell",
+    "bto_id": "BTO:0004730",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "myometrium",
+    "bto_label": "myometrium",
+    "bto_id": "BTO:0000907",
+    "uberon_id": "UBERON:0001296",
+    "uberon_label": "myometrium"
+  },
+  {
+    "bg_label": "natural_killer_cell",
+    "bto_label": "natural killer cell",
+    "bto_id": "BTO:0000914",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "neck",
+    "bto_label": "neck",
+    "bto_id": "BTO:0000420",
+    "uberon_id": "UBERON:0000974",
+    "uberon_label": "neck"
+  },
+  {
+    "bg_label": "neostriatum",
+    "bto_label": "neostriatum",
+    "bto_id": "BTO:0000418",
+    "uberon_id": "UBERON:0002435",
+    "uberon_label": "striatum"
+  },
+  {
+    "bg_label": "nephron",
+    "bto_label": "nephron",
+    "bto_id": "BTO:0000924",
+    "uberon_id": "UBERON:0001285",
+    "uberon_label": "nephron"
+  },
+  {
+    "bg_label": "nerve",
+    "bto_label": "nerve",
+    "bto_id": "BTO:0000925",
+    "uberon_id": "UBERON:0001021",
+    "uberon_label": "nerve"
+  },
+  {
+    "bg_label": "nervous_system",
+    "bto_label": "nervous system",
+    "bto_id": "BTO:0001484",
+    "uberon_id": "UBERON:0001016",
+    "uberon_label": "nervous system"
+  },
+  {
+    "bg_label": "neural_crest",
+    "bto_label": "neural crest",
+    "bto_id": "BTO:0001764",
+    "uberon_id": "UBERON:0002342",
+    "uberon_label": "neural crest"
+  },
+  {
+    "bg_label": "neural_crest_cell",
+    "bto_label": null,
+    "bto_id": null,
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "neural_plate",
+    "bto_label": "neural plate",
+    "bto_id": "BTO:0001765",
+    "uberon_id": "UBERON:0003075",
+    "uberon_label": "neural plate"
+  },
+  {
+    "bg_label": "neuroblast",
+    "bto_label": "neuroblast",
+    "bto_id": "BTO:0000930",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "neuroendocrine_cell",
+    "bto_label": "neuroendocrine cell",
+    "bto_id": "BTO:0002691",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "neuroendocrine_tumor_cell",
+    "bto_label": "neuroendocrine tumor cell",
+    "bto_id": "BTO:0001407",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "neuron",
+    "bto_label": "neuron",
+    "bto_id": "BTO:0000938",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "neutrophil",
+    "bto_label": "neutrophil",
+    "bto_id": "BTO:0000130",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "non_small_cell_lung_cancer_cell",
+    "bto_label": "non-small cell lung cancer cell",
+    "bto_id": "BTO:0002058",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "nucleus_accumbens",
+    "bto_label": "nucleus accumbens",
+    "bto_id": "BTO:0001862",
+    "uberon_id": "UBERON:0001882",
+    "uberon_label": "nucleus accumbens"
+  },
+  {
+    "bg_label": "nucleus_lentiformis",
+    "bto_label": "nucleus lentiformis",
+    "bto_id": "BTO:0002250",
+    "uberon_id": "UBERON:0002263",
+    "uberon_label": "lentiform nucleus"
+  },
+  {
+    "bg_label": "null_cell",
+    "bto_label": "null cell",
+    "bto_id": "BTO:0004716",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "occipital_lobe",
+    "bto_label": "occipital lobe",
+    "bto_id": "BTO:0000293",
+    "uberon_id": "UBERON:0002021",
+    "uberon_label": "occipital lobe"
+  },
+  {
+    "bg_label": "occipital_pole",
+    "bto_label": "occipital pole",
+    "bto_id": "BTO:0001868",
+    "uberon_id": "UBERON:0002902",
+    "uberon_label": "occipital pole"
+  },
+  {
+    "bg_label": "organism_form",
+    "bto_label": "organism form",
+    "bto_id": "BTO:0000284",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "osteoblast",
+    "bto_label": "osteoblast",
+    "bto_id": "BTO:0001593",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "osteogenic_cell",
+    "bto_label": "osteogenic cell",
+    "bto_id": "BTO:0002050",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "other_source",
+    "bto_label": "other source",
+    "bto_id": "BTO:0001490",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "ovarian_follicle",
+    "bto_label": "ovarian follicle",
+    "bto_id": "BTO:0000475",
+    "uberon_id": "UBERON:0001305",
+    "uberon_label": "ovarian follicle"
+  },
+  {
+    "bg_label": "ovarian_serous_carcinoma_cell",
+    "bto_label": "ovarian serous carcinoma cell",
+    "bto_id": "BTO:0002729",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "ovary",
+    "bto_label": "ovary",
+    "bto_id": "BTO:0000975",
+    "uberon_id": "UBERON:0000992",
+    "uberon_label": "ovary"
+  },
+  {
+    "bg_label": "ovary_cancer_cell",
+    "bto_label": "ovary cancer cell",
+    "bto_id": "BTO:0001023",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "oviduct",
+    "bto_label": "oviduct",
+    "bto_id": "BTO:0000980",
+    "uberon_id": "UBERON:0000993",
+    "uberon_label": "oviduct"
+  },
+  {
+    "bg_label": "pancreas",
+    "bto_label": "pancreas",
+    "bto_id": "BTO:0000988",
+    "uberon_id": "UBERON:0001264",
+    "uberon_label": "pancreas"
+  },
+  {
+    "bg_label": "pancreatic_duct",
+    "bto_label": "pancreatic duct",
+    "bto_id": "BTO:0002362",
+    "uberon_id": "UBERON:0001064",
+    "uberon_label": "ventral pancreatic duct"
+  },
+  {
+    "bg_label": "pancreatic_ductal_adenocarcinoma_cell",
+    "bto_label": "pancreatic ductal adenocarcinoma cell",
+    "bto_id": "BTO:0003081",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "pancreatic_ductal_carcinoma_cell",
+    "bto_label": "pancreatic ductal carcinoma cell",
+    "bto_id": "BTO:0002363",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "pancreatic_islet",
+    "bto_label": "pancreatic islet",
+    "bto_id": "BTO:0000991",
+    "uberon_id": "UBERON:0000006",
+    "uberon_label": "islet of Langerhans"
+  },
+  {
+    "bg_label": "papillary_renal_cell_carcinoma_cell",
+    "bto_label": "papillary renal cell carcinoma cell",
+    "bto_id": "BTO:0003497",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "parietal_lobe",
+    "bto_label": "parietal lobe",
+    "bto_id": "BTO:0001001",
+    "uberon_id": "UBERON:0001872",
+    "uberon_label": "parietal lobe"
+  },
+  {
+    "bg_label": "periosteum",
+    "bto_label": "periosteum",
+    "bto_id": "BTO:0001022",
+    "uberon_id": "UBERON:0002515",
+    "uberon_label": "periosteum"
+  },
+  {
+    "bg_label": "peripheral_blood",
+    "bto_label": "peripheral blood",
+    "bto_id": "BTO:0000553",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "peripheral_nervous_system",
+    "bto_label": "peripheral nervous system",
+    "bto_id": "BTO:0001028",
+    "uberon_id": "UBERON:0000010",
+    "uberon_label": "peripheral nervous system"
+  },
+  {
+    "bg_label": "phagocyte",
+    "bto_label": "phagocyte",
+    "bto_id": "BTO:0001044",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "pheochromocytoma_cell",
+    "bto_label": "pheochromocytoma cell",
+    "bto_id": "BTO:0001054",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "placenta",
+    "bto_label": "placenta",
+    "bto_id": "BTO:0001078",
+    "uberon_id": "UBERON:0001987",
+    "uberon_label": "placenta"
+  },
+  {
+    "bg_label": "podocyte",
+    "bto_label": "podocyte",
+    "bto_id": "BTO:0002295",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "pons",
+    "bto_label": "pons",
+    "bto_id": "BTO:0001101",
+    "uberon_id": "UBERON:0000988",
+    "uberon_label": "pons"
+  },
+  {
+    "bg_label": "pre_T_lymphocyte",
+    "bto_label": null,
+    "bto_id": null,
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "preosteoblast",
+    "bto_label": "preosteoblast",
+    "bto_id": "BTO:0002051",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "primary_spermatocyte",
+    "bto_label": "primary spermatocyte",
+    "bto_id": "BTO:0001115",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "prostate_adenocarcinoma_cell",
+    "bto_label": "prostate adenocarcinoma cell",
+    "bto_id": "BTO:0002021",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "prostate_gland",
+    "bto_label": "prostate gland",
+    "bto_id": "BTO:0001129",
+    "uberon_id": "UBERON:0002367",
+    "uberon_label": "prostate gland"
+  },
+  {
+    "bg_label": "rectal_adenocarcinoma_cell",
+    "bto_label": "rectal adenocarcinoma cell",
+    "bto_id": "BTO:0003782",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "rectal_cancer_cell",
+    "bto_label": "rectal cancer cell",
+    "bto_id": "BTO:0000193",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "rectum",
+    "bto_label": "rectum",
+    "bto_id": "BTO:0001158",
+    "uberon_id": "UBERON:0001052",
+    "uberon_label": "rectum"
+  },
+  {
+    "bg_label": "renal_cell_carcinoma_cell",
+    "bto_label": "renal cell carcinoma cell",
+    "bto_id": "BTO:0000037",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "renal_clear_cell",
+    "bto_label": "renal clear cell",
+    "bto_id": "BTO:0004098",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "renal_corpuscle",
+    "bto_label": "renal corpuscle",
+    "bto_id": "BTO:0000333",
+    "uberon_id": "UBERON:0001229",
+    "uberon_label": "renal corpuscle"
+  },
+  {
+    "bg_label": "renal_glomerular_capsule",
+    "bto_label": "renal glomerular capsule",
+    "bto_id": "BTO:0002297",
+    "uberon_id": "UBERON:0001230",
+    "uberon_label": "glomerular capsule"
+  },
+  {
+    "bg_label": "renal_glomerulus",
+    "bto_label": "renal glomerulus",
+    "bto_id": "BTO:0000530",
+    "uberon_id": "UBERON:0000074",
+    "uberon_label": "renal glomerulus"
+  },
+  {
+    "bg_label": "renal_tubule",
+    "bto_label": "renal tubule",
+    "bto_id": "BTO:0000343",
+    "uberon_id": "UBERON:0001231",
+    "uberon_label": "nephron tubule"
+  },
+  {
+    "bg_label": "reproductive_system",
+    "bto_label": "reproductive system",
+    "bto_id": "BTO:0000081",
+    "uberon_id": "UBERON:0000990",
+    "uberon_label": "reproductive system"
+  },
+  {
+    "bg_label": "respiratory_epithelium",
+    "bto_label": "respiratory epithelium",
+    "bto_id": "BTO:0000419",
+    "uberon_id": "UBERON:0004802",
+    "uberon_label": "respiratory tract epithelium"
+  },
+  {
+    "bg_label": "respiratory_system",
+    "bto_label": "respiratory system",
+    "bto_id": "BTO:0000203",
+    "uberon_id": "UBERON:0001004",
+    "uberon_label": "respiratory system"
+  },
+  {
+    "bg_label": "retina",
+    "bto_label": "retina",
+    "bto_id": "BTO:0001175",
+    "uberon_id": "UBERON:0000966",
+    "uberon_label": "retina"
+  },
+  {
+    "bg_label": "salivary_gland",
+    "bto_label": "salivary gland",
+    "bto_id": "BTO:0001203",
+    "uberon_id": "UBERON:0001044",
+    "uberon_label": "saliva-secreting gland"
+  },
+  {
+    "bg_label": "sarcoma_cell",
+    "bto_label": "sarcoma cell",
+    "bto_id": "BTO:0001207",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "secondary_spermatocyte",
+    "bto_label": "secondary spermatocyte",
+    "bto_id": "BTO:0000709",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "semen",
+    "bto_label": "semen",
+    "bto_id": "BTO:0001230",
+    "uberon_id": "UBERON:0001968",
+    "uberon_label": "semen"
+  },
+  {
+    "bg_label": "sense_organ",
+    "bto_label": "sense organ",
+    "bto_id": "BTO:0000202",
+    "uberon_id": "UBERON:0000020",
+    "uberon_label": "sense organ"
+  },
+  {
+    "bg_label": "serum",
+    "bto_label": "serum",
+    "bto_id": "BTO:0001239",
+    "uberon_id": "UBERON:0001977",
+    "uberon_label": "blood serum"
+  },
+  {
+    "bg_label": "skeletal_muscle",
+    "bto_label": "skeletal muscle",
+    "bto_id": "BTO:0001103",
+    "uberon_id": "UBERON:0014892",
+    "uberon_label": "skeletal muscle organ"
+  },
+  {
+    "bg_label": "skeletal_muscle_cancer_cell",
+    "bto_label": "skeletal muscle cancer cell",
+    "bto_id": "BTO:0001801",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "skeletal_muscle_cell",
+    "bto_label": "skeletal muscle cell",
+    "bto_id": "BTO:0004392",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "skeletal_system",
+    "bto_label": "skeletal system",
+    "bto_id": "BTO:0001486",
+    "uberon_id": "UBERON:0001434",
+    "uberon_label": "skeletal system"
+  },
+  {
+    "bg_label": "skin",
+    "bto_label": "skin",
+    "bto_id": "BTO:0001253",
+    "uberon_id": "UBERON:0002097",
+    "uberon_label": "skin of body"
+  },
+  {
+    "bg_label": "skin_cancer_cell",
+    "bto_label": "skin cancer cell",
+    "bto_id": "BTO:0001286",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "skin_fibroblast",
+    "bto_label": "skin fibroblast",
+    "bto_id": "BTO:0001255",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "small_intestine",
+    "bto_label": "small intestine",
+    "bto_id": "BTO:0000651",
+    "uberon_id": "UBERON:0002108",
+    "uberon_label": "small intestine"
+  },
+  {
+    "bg_label": "smooth_muscle",
+    "bto_label": "smooth muscle",
+    "bto_id": "BTO:0001260",
+    "uberon_id": "UBERON:0001135",
+    "uberon_label": "smooth muscle tissue"
+  },
+  {
+    "bg_label": "spermatid",
+    "bto_label": "spermatid",
+    "bto_id": "BTO:0001274",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "spermatocyte",
+    "bto_label": "spermatocyte",
+    "bto_id": "BTO:0001275",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "spermatogonium",
+    "bto_label": "spermatogonium",
+    "bto_id": "BTO:0000958",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "spinal_cord",
+    "bto_label": "spinal cord",
+    "bto_id": "BTO:0001279",
+    "uberon_id": "UBERON:0002240",
+    "uberon_label": "spinal cord"
+  },
+  {
+    "bg_label": "spleen",
+    "bto_label": "spleen",
+    "bto_id": "BTO:0001281",
+    "uberon_id": "UBERON:0002106",
+    "uberon_label": "spleen"
+  },
+  {
+    "bg_label": "squamous_cell_carcinoma_cell",
+    "bto_label": "squamous cell carcinoma cell",
+    "bto_id": "BTO:0001289",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "squamous_epithelium",
+    "bto_label": "squamous epithelium",
+    "bto_id": "BTO:0002072",
+    "uberon_id": "UBERON:0006914",
+    "uberon_label": "squamous epithelium"
+  },
+  {
+    "bg_label": "stomach",
+    "bto_label": "stomach",
+    "bto_id": "BTO:0001307",
+    "uberon_id": "UBERON:0000945",
+    "uberon_label": "stomach"
+  },
+  {
+    "bg_label": "stratum_spinosum",
+    "bto_label": "stratum spinosum",
+    "bto_id": "BTO:0000435",
+    "uberon_id": "UBERON:0002026",
+    "uberon_label": "stratum spinosum of epidermis"
+  },
+  {
+    "bg_label": "substantia_nigra",
+    "bto_label": "substantia nigra",
+    "bto_id": "BTO:0000143",
+    "uberon_id": "UBERON:0002038",
+    "uberon_label": "substantia nigra"
+  },
+  {
+    "bg_label": "subthalamic_nucleus",
+    "bto_label": "subthalamic nucleus",
+    "bto_id": "BTO:0002252",
+    "uberon_id": "UBERON:0001906",
+    "uberon_label": "subthalamic nucleus"
+  },
+  {
+    "bg_label": "tear_gland",
+    "bto_label": "tear gland",
+    "bto_id": "BTO:0000044",
+    "uberon_id": "UBERON:0001817",
+    "uberon_label": "lacrimal gland"
+  },
+  {
+    "bg_label": "telencephalon",
+    "bto_label": "telencephalon",
+    "bto_id": "BTO:0000239",
+    "uberon_id": "UBERON:0001893",
+    "uberon_label": "telencephalon"
+  },
+  {
+    "bg_label": "temporal_lobe",
+    "bto_label": "temporal lobe",
+    "bto_id": "BTO:0001355",
+    "uberon_id": "UBERON:0001871",
+    "uberon_label": "temporal lobe"
+  },
+  {
+    "bg_label": "testicular_cancer_cell",
+    "bto_label": "testicular cancer cell",
+    "bto_id": "BTO:0000279",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "testis",
+    "bto_label": "testis",
+    "bto_id": "BTO:0001363",
+    "uberon_id": "UBERON:0000473",
+    "uberon_label": "testis"
+  },
+  {
+    "bg_label": "thalamus",
+    "bto_label": "thalamus",
+    "bto_id": "BTO:0001365",
+    "uberon_id": "UBERON:0001897",
+    "uberon_label": "dorsal plus ventral thalamus"
+  },
+  {
+    "bg_label": "thorax",
+    "bto_label": "thorax",
+    "bto_id": "BTO:0001368",
+    "uberon_id": "UBERON:0001443",
+    "uberon_label": "chest"
+  },
+  {
+    "bg_label": "throat",
+    "bto_label": "throat",
+    "bto_id": "BTO:0000828",
+    "uberon_id": "UBERON:0000341",
+    "uberon_label": "throat"
+  },
+  {
+    "bg_label": "thymic_cancer_cell",
+    "bto_label": "thymic cancer cell",
+    "bto_id": "BTO:0001460",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "thymocyte",
+    "bto_label": "thymocyte",
+    "bto_id": "BTO:0001372",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "thymoma_cell",
+    "bto_label": "thymoma cell",
+    "bto_id": "BTO:0001454",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "thymus",
+    "bto_label": "thymus",
+    "bto_id": "BTO:0001374",
+    "uberon_id": "UBERON:0002370",
+    "uberon_label": "thymus"
+  },
+  {
+    "bg_label": "thyroid_cancer_cell",
+    "bto_label": "thyroid cancer cell",
+    "bto_id": "BTO:0000196",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "thyroid_gland",
+    "bto_label": "thyroid gland",
+    "bto_id": "BTO:0001379",
+    "uberon_id": "UBERON:0002046",
+    "uberon_label": "thyroid gland"
+  },
+  {
+    "bg_label": "tissues__cell_types_and_enzyme_sources",
+    "bto_label": null,
+    "bto_id": null,
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "tonsil",
+    "bto_label": "tonsil",
+    "bto_id": "BTO:0001387",
+    "uberon_id": "UBERON:0002372",
+    "uberon_label": "tonsil"
+  },
+  {
+    "bg_label": "tooth",
+    "bto_label": "tooth",
+    "bto_id": "BTO:0000397",
+    "uberon_id": "UBERON:0001091",
+    "uberon_label": "calcareous tooth"
+  },
+  {
+    "bg_label": "trachea",
+    "bto_label": "trachea",
+    "bto_id": "BTO:0001388",
+    "uberon_id": "UBERON:0003126",
+    "uberon_label": "trachea"
+  },
+  {
+    "bg_label": "trophoblast",
+    "bto_label": "trophoblast",
+    "bto_id": "BTO:0001079",
+    "uberon_id": "UBERON:0000088",
+    "uberon_label": "trophoblast"
+  },
+  {
+    "bg_label": "trunk",
+    "bto_label": "trunk",
+    "bto_id": "BTO:0001493",
+    "uberon_id": "UBERON:0002100",
+    "uberon_label": "trunk"
+  },
+  {
+    "bg_label": "umbilical_cord",
+    "bto_label": "umbilical cord",
+    "bto_id": "BTO:0001415",
+    "uberon_id": "UBERON:0002331",
+    "uberon_label": "umbilical cord"
+  },
+  {
+    "bg_label": "umbilical_vein",
+    "bto_label": "umbilical vein",
+    "bto_id": "BTO:0001509",
+    "uberon_id": "UBERON:0002066",
+    "uberon_label": "umbilical vein"
+  },
+  {
+    "bg_label": "umbilical_vein_endothelial_cell",
+    "bto_label": "umbilical vein endothelial cell",
+    "bto_id": "BTO:0004296",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "umbilical_vein_endothelium",
+    "bto_label": "umbilical vein endothelium",
+    "bto_id": "BTO:0001416",
+    "uberon_id": "UBERON:0007777",
+    "uberon_label": "umbilical vein endothelium"
+  },
+  {
+    "bg_label": "urinary_bladder",
+    "bto_label": "urinary bladder",
+    "bto_id": "BTO:0001418",
+    "uberon_id": "UBERON:0001255",
+    "uberon_label": "urinary bladder"
+  },
+  {
+    "bg_label": "urinary_bladder_cancer_cell",
+    "bto_label": "urinary bladder cancer cell",
+    "bto_id": "BTO:0000362",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "urinary_system",
+    "bto_label": "urinary system",
+    "bto_id": "BTO:0003092",
+    "uberon_id": "UBERON:0001008",
+    "uberon_label": "renal system"
+  },
+  {
+    "bg_label": "urinary_tract",
+    "bto_label": "urinary tract",
+    "bto_id": "BTO:0001244",
+    "uberon_id": "UBERON:0001008",
+    "uberon_label": "renal system"
+  },
+  {
+    "bg_label": "uroepithelium",
+    "bto_label": "uroepithelium",
+    "bto_id": "BTO:0003906",
+    "uberon_id": "UBERON:0000365",
+    "uberon_label": "urothelium"
+  },
+  {
+    "bg_label": "urogenital_system",
+    "bto_label": "urogenital system",
+    "bto_id": "BTO:0003091",
+    "uberon_id": "UBERON:0004122",
+    "uberon_label": "genitourinary system"
+  },
+  {
+    "bg_label": "uterine_cancer_cell",
+    "bto_label": "uterine cancer cell",
+    "bto_id": "BTO:0000257",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "uterine_cervix",
+    "bto_label": "uterine cervix",
+    "bto_id": "BTO:0001421",
+    "uberon_id": "UBERON:0000002",
+    "uberon_label": "uterine cervix"
+  },
+  {
+    "bg_label": "uterine_endometrium",
+    "bto_label": "uterine endometrium",
+    "bto_id": "BTO:0001422",
+    "uberon_id": "UBERON:0001295",
+    "uberon_label": "endometrium"
+  },
+  {
+    "bg_label": "uterine_sarcoma_cell",
+    "bto_label": "uterine sarcoma cell",
+    "bto_id": "BTO:0003596",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "uterus",
+    "bto_label": "uterus",
+    "bto_id": "BTO:0001424",
+    "uberon_id": "UBERON:0000995",
+    "uberon_label": "uterus"
+  },
+  {
+    "bg_label": "uveal_melanoma_cell",
+    "bto_label": "uveal melanoma cell",
+    "bto_id": "BTO:0004980",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "vascular_endothelial_cell",
+    "bto_label": "vascular endothelial cell",
+    "bto_id": "BTO:0001854",
+    "uberon_id": null,
+    "uberon_label": null
+  },
+  {
+    "bg_label": "vascular_endothelium",
+    "bto_label": "vascular endothelium",
+    "bto_id": "BTO:0001853",
+    "uberon_id": "UBERON:0004852",
+    "uberon_label": "cardiovascular system endothelium"
+  },
+  {
+    "bg_label": "vascular_system",
+    "bto_label": "vascular system",
+    "bto_id": "BTO:0001085",
+    "uberon_id": "UBERON:0007798",
+    "uberon_label": "vascular system"
+  },
+  {
+    "bg_label": "vermiform_appendix",
+    "bto_label": "vermiform appendix",
+    "bto_id": "BTO:0000084",
+    "uberon_id": "UBERON:0001154",
+    "uberon_label": "vermiform appendix"
+  },
+  {
+    "bg_label": "vertebrate_muscular_system",
+    "bto_label": "vertebrate muscular system",
+    "bto_id": "BTO:0001369",
+    "uberon_id": "UBERON:0000383",
+    "uberon_label": "musculature of body"
+  },
+  {
+    "bg_label": "vestibular_labyrinth",
+    "bto_label": "vestibular labyrinth",
+    "bto_id": "BTO:0001856",
+    "uberon_id": "UBERON:0001862",
+    "uberon_label": "vestibular labyrinth"
+  },
+  {
+    "bg_label": "vestibular_system",
+    "bto_label": "vestibular system",
+    "bto_id": "BTO:0003381",
+    "uberon_id": "UBERON:0004681",
+    "uberon_label": "vestibular system"
+  },
+  {
+    "bg_label": "viscus",
+    "bto_label": "viscus",
+    "bto_id": "BTO:0001491",
+    "uberon_id": "UBERON:0002075",
+    "uberon_label": "viscus"
+  },
+  {
+    "bg_label": "whole_body",
+    "bto_label": "whole body",
+    "bto_id": "BTO:0001489",
+    "uberon_id": "UBERON:0013702",
+    "uberon_label": "body proper"
+  },
+  {
+    "bg_label": "zygote",
+    "bto_label": "zygote",
+    "bto_id": "BTO:0000854",
+    "uberon_id": null,
+    "uberon_label": null
+  }
+]
