@@ -177,15 +177,37 @@ def _doid_to_ncbigene(doid):
     ts = set([x['target_id'] for x in results])
     return [x.split(':')[-1] for x in ts if x]
 
+def _doid_add_prefix(doid):
+    return ['DOID:' + str(_doid) for _doid in doid if not str(doid).startswith('DOID')]
+
 def doid_to_ncbigene(doids, limit=None):
     
     #res = my_pool.map(_doid_to_hp, doids)
+    """
     res = []
     
     for doid in doids:
         if limit is None or len(set(res)) < limit:
             res += _doid_to_ncbigene(doid)
     return res
+    """
+    # batch query MyDisease.info
+    # add prefix for each doid
+    doids = _doid_add_prefix(doids)
+    # concatenate doids with ","
+    doids = ','.join(doids)
+    headers = {'content-type': 'application/x-www-form-urlencoded'}
+    params = "q=" + doids + "&scopes=mondo.xrefs.doid&fields=disgenet.genes_related_to_disease&dotfield=True"
+    res = requests.post('http://mydisease.info/v1/query', data=params, headers=headers).json()
+    result = set()
+    for _res in res:
+        for _gene in _res['disgenet.genes_related_to_disease.gene_id']:
+            if limit is None or len(result) < limit:
+                result.add(_gene)
+    return list(result)
+
+
+
 
 def _doid_to_hp(doid):
 
