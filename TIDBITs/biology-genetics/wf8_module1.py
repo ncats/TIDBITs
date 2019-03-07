@@ -36,7 +36,7 @@ def doid_to_genes_direct(doid, N=10):
     if not isinstance(doid, list): 
         doid = [doid]
 
-    logging.info("Geting HP ids from DOID")
+    logging.info("Getting HP ids from DOID")
 
     #http://disease-ontology.org/
     disease_doid = doid
@@ -59,7 +59,7 @@ def doid_to_genes(doid, N=10):
     if not isinstance(doid, list): 
         doid = [doid]
 
-    logging.info("Geting HP ids from DOID")
+    logging.info("Getting HP ids from DOID")
 
     #http://disease-ontology.org/
     disease_doid = doid
@@ -99,7 +99,7 @@ def doid_to_tissues(doid, N=10):
     if not isinstance(doid, list):
         doid = [doid]
 
-    logging.info("Geting HP ids from DOID")
+    logging.info("Getting HP ids from DOID")
     #http://disease-ontology.org/
     disease_doid = doid
     hpids = doid_to_hp(disease_doid, limit=N)
@@ -108,7 +108,7 @@ def doid_to_tissues(doid, N=10):
     else:
         print("Returned %i phenotypes" % (len(hpids), ))
 
-    logging.info("Geting uberon from HP ids")
+    logging.info("Getting uberon from HP ids")
     uberontissues = hp_to_uberon(hpids, limit=N)
     if len(uberontissues) == 0:
         raise Exception("No tissues related to %s" % (str(hpids)))
@@ -116,7 +116,7 @@ def doid_to_tissues(doid, N=10):
         print("Returned %i uberon tissues" % (len(uberontissues), ))
 
     #tissues = uberontissues
-    logging.info("Geting brenda tissue names from uberon tissue identifiers")
+    logging.info("Getting brenda tissue names from uberon tissue identifiers")
     tissues = uberon_to_bto(uberontissues, limit=N)
     if len(tissues) == 0:
         raise Exception("No tissues related to %s" % (str(uberontissues)))
