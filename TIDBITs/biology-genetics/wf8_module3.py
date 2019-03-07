@@ -51,7 +51,6 @@ class DDOT_Client(object):
         if not isinstance(dataframe, pd.DataFrame): 
             raise ValueError("dataframe must be a pandas DataFrame!") 
         
-        self.dataframe = dataframe
         filename = self._save_dataframe(dataframe) 
 
         return cls(filename, verbose=verbose)
