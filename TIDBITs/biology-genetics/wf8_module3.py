@@ -51,12 +51,12 @@ class DDOT_Client(object):
         if not isinstance(dataframe, pd.DataFrame): 
             raise ValueError("dataframe must be a pandas DataFrame!") 
         
-        filename = self._save_dataframe(dataframe) 
+        filename = cls._save_dataframe(dataframe) 
 
         return cls(filename, verbose=verbose)
 
-        
-    def _save_dataframe(self, dataframe, path=''):
+    @staticmethod
+    def _save_dataframe(dataframe, path=''):
         """Writes a dataframe to a temporary file and returns the path
 
         Parameters
