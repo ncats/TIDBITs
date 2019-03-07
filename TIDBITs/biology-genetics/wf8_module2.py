@@ -133,7 +133,7 @@ def get_column(some_tissue, table='BigGIM_70_v1'):
     columns = []
     try:
 		# query
-        md = get(f'metadata/tissue/{some_tissue}')
+        md = get('metadata/tissue/%s' % some_tissue)
         for st in md['substudies']:
             for column in st.get('columns',[]):
 				#filter table
